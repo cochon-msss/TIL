@@ -21,6 +21,10 @@
 - [SHA-512](hash/sha-512.md)
 
 ## Network
+- [HTTP](network/http.md)
+- [HTTPS](network/https.md)
+- [사설망 (Private Network)](network/private-network.md)
+- [VPN](network/vpn.md)
 - [INET_ATON / INET_NTOA](network/inet-aton-ntoa.md)
 
 ## Git
