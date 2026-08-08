@@ -8,6 +8,7 @@
 - [빌드 - 컴파일 그리고 빌드](cs/build.md)
 
 ## Java
+- [Java란](java/java-intro.md)
 - [Stream API](java/stream-api.md)
 
 ## Spring
@@ -40,5 +41,6 @@
 - [Git 명령어](git/git-command.md)
 
 ## Database
+- [PostgreSQL 시작 & 종료 & 접속](database/postgresql-basic.md)
 
 ## Algorithm
