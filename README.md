@@ -44,7 +44,7 @@
 - [PostgreSQL 시작 & 종료 & 접속](database/postgresql-basic.md)
 
 ## Elasticsearch
-- [ES 조회 느린 거 Transform 롤업으로 개선](elasticsearch/transform-rollup.md)
+- [ES 조회 속도 Transform 롤업으로 개선](elasticsearch/transform-rollup.md)
 
 ## 국비 (부트캠프)
 공부했던 걸 모아둔 곳.
