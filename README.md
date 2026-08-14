@@ -42,6 +42,7 @@
 
 ## Database
 - [PostgreSQL 시작 & 종료 & 접속](database/postgresql-basic.md)
+- [DB 인덱스랑 쿼리 성능](database/db-index.md)
 
 ## Elasticsearch
 - [ES 조회 속도 Transform 롤업으로 개선](elasticsearch/transform-rollup.md)
