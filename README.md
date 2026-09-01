@@ -32,6 +32,7 @@
 - [JSP (Java Server Page)](server/jsp.md)
 
 ## Network
+- [OSI 7계층](network/osi-layers.md)
 - [IP / 서브넷 / 포트](network/ip-subnet-port.md)
 - [TCP vs UDP](network/tcp-udp.md)
 - [HTTP](network/http.md)
