@@ -41,6 +41,9 @@
 - [VPN](network/vpn.md)
 - [INET_ATON / INET_NTOA](network/inet-aton-ntoa.md)
 
+## MCP
+- [MCP (Model Context Protocol)](mcp/mcp-intro.md)
+
 ## Git
 - [Git 명령어](git/git-command.md)
 
