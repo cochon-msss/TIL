@@ -46,6 +46,7 @@
 - [NAT](network/nat.md)
 - [라우팅](network/routing.md)
 - [ARP](network/arp.md)
+- [DHCP](network/dhcp.md)
 - [VPN](network/vpn.md)
 - [INET_ATON / INET_NTOA](network/inet-aton-ntoa.md)
 
