@@ -18,6 +18,7 @@
 - [MVC 디자인 패턴](spring/mvc.md)
 - [SSE (Server-Sent Events)](spring/sse.md)
 - [WebSocket](spring/websocket.md)
+- [XSS 필터 직접 만들기](spring/xss-filter.md)
 
 ## Security
 - [JWT](security/jwt.md)
