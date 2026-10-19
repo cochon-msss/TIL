@@ -17,6 +17,7 @@
 - [Spring 주요 어노테이션](spring/spring-annotations.md)
 - [MVC 디자인 패턴](spring/mvc.md)
 - [SSE (Server-Sent Events)](spring/sse.md)
+- [WebSocket](spring/websocket.md)
 
 ## Security
 - [JWT](security/jwt.md)

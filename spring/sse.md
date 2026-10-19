@@ -33,6 +33,8 @@ SSE는 한 번 묻고 연결을 안 끊는다.
 
 내가 필요한 건 "서버가 알려주기"뿐이었다. 클라가 서버로 올려보낼 건 없다. 웹소켓은 양방향이라 안 쓰는 절반을 떠안는 거고 [프로토콜](../network/http.md)이 바뀌니까 프록시 설정까지 손봐야 한다. SSE는 그냥 HTTP라 Content-Type만 바꾸면 된다.
 
+양방향이 진짜로 필요한 쪽은 따로 썼다. → [WebSocket](websocket.md)
+
 ```java
 @RequestMapping(value = "/subscribe", method = RequestMethod.GET, produces = "text/event-stream")
 public SseEmitter subscribe() { ... }
