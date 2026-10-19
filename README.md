@@ -16,6 +16,7 @@
 - [DAO, DTO, VO](spring/dao-dto-vo.md)
 - [Spring 주요 어노테이션](spring/spring-annotations.md)
 - [MVC 디자인 패턴](spring/mvc.md)
+- [SSE (Server-Sent Events)](spring/sse.md)
 
 ## Security
 - [JWT](security/jwt.md)
