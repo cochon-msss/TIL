@@ -22,6 +22,7 @@
 
 ## Security
 - [JWT](security/jwt.md)
+- [파일 업로드 검증](security/file-upload.md)
 
 ## Hash
 - [해시 함수](hash/hash-function.md)
