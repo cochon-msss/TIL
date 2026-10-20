@@ -63,6 +63,8 @@ private static final Map<String, EmitterWrapper> EMITTERS = new ConcurrentHashMa
 
 구독이 "접속"이 아니라 "**Map에 등록**"이라는 게 처음에 안 와닿았다. 연결은 브라우저가 맺고, 서버가 하는 일은 그 연결을 잃어버리지 않게 적어두는 거다.
 
+이 Map이 `static` 이라 **그 톰캣 JVM 안에만 있다.** 톰캣을 두 대로 늘리면 `broadcast` 가 "내 톰캣에 붙은 사람들"로 쪼개진다. 지금은 한 대라 안 보이는 제약인데, 알게 된 경위는 [프록시](../network/proxy.md) 노트에 적었다.
+
 ## 탭을 2개 열면 한쪽이 안 온다
 
 처음엔 Map 키를 세션 하나로 했다. 그러니까 같은 사람이 탭을 두 개 열면 두 번째 `put` 이 첫 번째를 덮는다.
