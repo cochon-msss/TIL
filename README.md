@@ -55,6 +55,11 @@
 ## MCP
 - [MCP (Model Context Protocol)](mcp/mcp-intro.md)
 
+## LLM
+직접 만들어보는 과정. 진행 상황은 [LLM 직접 만들기](llm/README.md)에 있다.
+- [LLM과 토큰](llm/token.md)
+- [0단계: 파이썬과 numpy](llm/00-python-numpy.md)
+
 ## Git
 - [Git 명령어](git/git-command.md)
 
