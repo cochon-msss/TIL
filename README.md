@@ -68,6 +68,10 @@
 - [PostgreSQL 시작 & 종료 & 접속](database/postgresql-basic.md)
 - [DB 인덱스랑 쿼리 성능](database/db-index.md)
 
+## Redis
+- [Redis는 메모리에 둔다 — TTL, 캐시와 세션, 영속화](redis/redis-memory.md)
+- [싱글 스레드와 원자성](redis/single-thread.md)
+
 ## Elasticsearch
 - [ES 조회 속도 Transform 롤업으로 개선](elasticsearch/transform-rollup.md)
 
