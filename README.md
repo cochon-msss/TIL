@@ -71,6 +71,8 @@
 ## Redis
 - [Redis는 메모리에 둔다 — TTL, 캐시와 세션, 영속화](redis/redis-memory.md)
 - [싱글 스레드와 원자성](redis/single-thread.md)
+- [DB가 바뀌면 캐시는 고치나 지우나](redis/cache-consistency.md)
+- [캐시가 비는 한순간 — 스탬피드와 분산 락](redis/stampede-lock.md)
 
 ## Elasticsearch
 - [ES 조회 속도 Transform 롤업으로 개선](elasticsearch/transform-rollup.md)
