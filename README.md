@@ -60,6 +60,7 @@
 - [LLM과 토큰](llm/token.md)
 - [0단계: 파이썬과 numpy](llm/00-python-numpy.md)
 - [1단계: 틀린 만큼 조금씩 고친다 (경사하강)](llm/01-gradient-descent.md)
+- [2단계: 경사는 컴퓨터가 구해준다 (backward)](llm/02-autograd.md)
 
 ## Git
 - [Git 명령어](git/git-command.md)
